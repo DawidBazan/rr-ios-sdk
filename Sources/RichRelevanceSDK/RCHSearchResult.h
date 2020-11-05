@@ -16,7 +16,7 @@
 #if SWIFT_PACKAGE
 #import "RichRelevanceSDK.h"
 #else
-#import <RichRelevanceSDK/RichRelevanceSDK.h>
+#import <RichRelevanceSDK.h>
 #endif
 #import "RCHAPIResult.h"
 @class RCHSearchLink;

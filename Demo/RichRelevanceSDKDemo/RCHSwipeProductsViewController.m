@@ -14,7 +14,7 @@
 //  limitations under the License.
 
 #import "RCHSwipeProductsViewController.h"
-#import <RichRelevanceSDK/RichRelevanceSDK.h>
+#import <RichRelevanceSDK.h>
 #import "SVProgressHUD.h"
 #import "UIViewController+RCHExtensions.h"
 #import "ZLSwipeableView.h"

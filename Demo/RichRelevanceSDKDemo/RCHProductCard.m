@@ -14,7 +14,7 @@
 //  limitations under the License.
 
 #import "RCHProductCard.h"
-#import <RichRelevanceSDK/RichRelevanceSDK.h>
+#import <RichRelevanceSDK.h>
 #import "UIImageView+WebCache.h"
 #import "RCHAppearance.h"
 

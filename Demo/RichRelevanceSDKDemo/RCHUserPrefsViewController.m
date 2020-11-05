@@ -14,7 +14,7 @@
 //  limitations under the License.
 
 #import "RCHUserPrefsViewController.h"
-#import <RichRelevanceSDK/RichRelevanceSDK.h>
+#import <RichRelevanceSDK.h>
 #import "RZCollectionList.h"
 #import "SVProgressHUD.h"
 #import "UIViewController+RCHExtensions.h"

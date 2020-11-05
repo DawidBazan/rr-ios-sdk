@@ -14,7 +14,7 @@
 //  limitations under the License.
 
 #import "RCHProductCell.h"
-#import <RichRelevanceSDK/RichRelevanceSDK.h>
+#import <RichRelevanceSDK.h>
 #import "UIImageView+WebCache.h"
 
 @interface RCHProductCell ()

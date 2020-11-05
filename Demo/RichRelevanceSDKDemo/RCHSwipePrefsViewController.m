@@ -15,7 +15,7 @@
 
 #import "RCHSwipePrefsViewController.h"
 #import "RCHAppearance.h"
-#import <RichRelevanceSDK/RichRelevanceSDK.h>
+#import <RichRelevanceSDK.h>
 #import "SVProgressHUD.h"
 #import "UIViewController+RCHExtensions.h"
 #import "RCHProductCell.h"

@@ -15,7 +15,7 @@
 
 #import "RCHUserProfileViewController.h"
 #import "SVProgressHUD.h"
-#import <RichRelevanceSDK/RichRelevanceSDK.h>
+#import <RichRelevanceSDK.h>
 #import "UIViewController+RCHExtensions.h"
 
 @interface RCHUserProfileViewController ()

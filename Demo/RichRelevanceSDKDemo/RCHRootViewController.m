@@ -14,7 +14,7 @@
 //  limitations under the License.
 
 #import "RCHRootViewController.h"
-#import <RichRelevanceSDK/RichRelevanceSDK.h>
+#import <RichRelevanceSDK.h>
 #import "RCHAppearance.h"
 
 @interface RCHRootViewController ()

@@ -14,7 +14,7 @@
 //  limitations under the License.
 
 @import UIKit;
-#import <RichRelevanceSDK/RichRelevanceSDK.h>
+#import <RichRelevanceSDK.h>
 
 @interface RCHBaseRecsViewcontroller : UITableViewController
 

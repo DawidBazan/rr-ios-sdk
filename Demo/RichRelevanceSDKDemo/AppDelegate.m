@@ -15,7 +15,7 @@
 
 #import "AppDelegate.h"
 #import "RCHAppearance.h"
-#import <RichRelevanceSDK/RichRelevanceSDK.h>
+#import <RichRelevanceSDK.h>
 #import "RCHStringConstants.h"
 
 @interface AppDelegate ()
