@@ -24,6 +24,9 @@ let package = Package(
             exclude: [
                 "Info.plist"
             ],
-            publicHeadersPath: "."),
+            publicHeadersPath: ".",
+            cSettings: [
+                .define("SWIFT_PACKAGE"),
+            ]),
     ]
 )
