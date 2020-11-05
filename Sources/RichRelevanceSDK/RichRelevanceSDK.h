@@ -111,7 +111,7 @@ FOUNDATION_EXPORT const unsigned char RichRelevanceSDKVersionString[];
 #import <RCHUserPreference.h>
 #import <RCHUserProfileResult.h>
 #import <RCHUserProfileElement.h>
-#import <RCHImportable.h>
+#import <Import/RCHImportable.h>
 #import <RCHPersonalizeResult.h>
 #import <RCHPersonalizedPlacement.h>
 #import <RCHCreative.h>
