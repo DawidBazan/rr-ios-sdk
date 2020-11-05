@@ -20,7 +20,7 @@ s.platform     = :ios, 8.3
 s.source       = { :git => "https://github.com/RichRelevance/rr-ios-sdk.git", :tag => s.version }
 s.requires_arc = true
 
-s.source_files = "SDK/RichRelevanceSDK/**/*.{h,m}"
-s.public_header_files = "SDK/RichRelevanceSDK/**/*.h"
-s.private_header_files = "SDK/RichRelevanceSDK/Private/*.h", "SDK/RichRelevanceSDK/Import/NSObject+RCHImport.h", "SDK/RichRelevanceSDK/Import/Private/*.h"
+s.source_files = "Sources/RichRelevanceSDK/**/*.{h,m}"
+s.public_header_files = "Sources/RichRelevanceSDK/**/*.h"
+s.private_header_files = "Sources/RichRelevanceSDK/Private/*.h", "Sources/RichRelevanceSDK/Import/NSObject+RCHImport.h", "Sources/RichRelevanceSDK/Import/Private/*.h"
 end

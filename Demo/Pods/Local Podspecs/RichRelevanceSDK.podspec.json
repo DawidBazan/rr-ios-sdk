@@ -21,11 +21,11 @@
     "tag": "1.1.0"
   },
   "requires_arc": true,
-  "source_files": "SDK/RichRelevanceSDK/**/*.{h,m}",
-  "public_header_files": "SDK/RichRelevanceSDK/**/*.h",
+  "source_files": "Sources/RichRelevanceSDK/**/*.{h,m}",
+  "public_header_files": "Sources/RichRelevanceSDK/**/*.h",
   "private_header_files": [
-    "SDK/RichRelevanceSDK/Private/*.h",
-    "SDK/RichRelevanceSDK/Import/NSObject+RCHImport.h",
-    "SDK/RichRelevanceSDK/Import/Private/*.h"
+    "Sources/RichRelevanceSDK/Private/*.h",
+    "Sources/RichRelevanceSDK/Import/NSObject+RCHImport.h",
+    "Sources/RichRelevanceSDK/Import/Private/*.h"
   ]
 }
