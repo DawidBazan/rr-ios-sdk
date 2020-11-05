@@ -20,12 +20,10 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
             name: "RichRelevanceSDK",
-            path: "Sources",
-            cSettings: [
-                .headerSearchPath("RichRelevanceSDK"),
-                .headerSearchPath("RichRelevanceSDK/Import"),
-                .headerSearchPath("RichRelevanceSDK/Import/Private"),
-                .headerSearchPath("RichRelevanceSDK/Private"),
-            ]),
+            path: "Sources/RichRelevanceSDK",
+            exclude: [
+                "Info.plist"
+            ],
+            publicHeadersPath: "include"),
     ]
 )
